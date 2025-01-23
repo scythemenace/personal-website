@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'C++', 'React', 'Node.js', 'Next.js'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,21 +135,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Ankur and I enjoy creating things that live on the internet. I’m
+              also really into AI, specifically natural language processing (because who isn’t these
+              days?), and I find the work of the founders of cursor.ai super inspiring. One day, I’d
+              love to learn how to scale neural nets.{' '}
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Lately, I’ve been focusing on learning algorithms and complexity. What really got me
+              into it was reading about how training a
+              <a href="https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/">
+                single AI model can generate five times the CO₂ a car does in its entire lifetime.
+              </a>
+            </p>
+
+            <p>
+              {' '}
+              That honestly blew my mind and made me realize how important it is to write efficient
+              code, not just to make things faster, but to reduce the environmental impact too. It
+              feels like a small way I can contribute to solving a much bigger problem.
             </p>
 
             <p>

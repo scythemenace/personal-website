@@ -60,28 +60,27 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Ankur Pandey.</h2>;
+  const three = <h3 className="big-heading">Software Developer.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a computer science junior at{' '}
+        <a href="https://www.mcmaster.ca/" target="_blank" rel="noreferrer">
+          McMaster University
+        </a>{' '}
+        who’s passionate about building things that work (and look) great on the web. Currently, I’m
+        learning full-stack development, with a bit more of a focus on the backend.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://github.com/scythemenace/Vinculum"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my latest work!
     </a>
   );
 
