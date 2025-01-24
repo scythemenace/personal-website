@@ -52,4 +52,4 @@
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
 
 ## Acknowledgements
-This repository is forked from brittany chiang's v4 [personal website](https://github.com/bchiang7/v4). Yes, you can fork this repo. Please checkout her website [brittanychiang.com](https://brittanychiang.com). Thanks!
+This repository is forked from [brittany chiang's v4 personal website](https://github.com/bchiang7/v4). Yes, you can fork this repo. Please checkout her website [brittanychiang.com](https://brittanychiang.com). Thanks!
