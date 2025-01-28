@@ -8,8 +8,8 @@ tech:
   - React
   - Express
   - MongoDB
-  - JWT
   - Bcrypt
+  - Zod
   - Tailwind
 ---
 
