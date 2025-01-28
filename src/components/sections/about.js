@@ -157,12 +157,12 @@ const About = () => {
             </p>
 
             <p>
-              I also recently{' '}
+              I am currently{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+                working on a project
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              that takes a text transcription and generates an artificial voice which reads the
+              text.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
