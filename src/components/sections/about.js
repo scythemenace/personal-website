@@ -157,10 +157,7 @@ const About = () => {
             </p>
 
             <p>
-              I am currently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                working on a project
-              </a>{' '}
+              I am currently <a href="https://github.com/scythemenace/echo">working on a project</a>{' '}
               that takes a text transcription and generates an artificial voice which reads the
               text.
             </p>
