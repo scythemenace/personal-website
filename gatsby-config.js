@@ -6,7 +6,7 @@ module.exports = {
     description:
       'I’m a passionate student deeply interested in full-stack software development, with a particular focus on backend systems.',
     siteUrl: 'https://www.ankurp.net/', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: './static/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@scythemenace',
   },
   plugins: [
